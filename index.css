@@ -1,0 +1,68 @@
+*{margin: 0;
+    padding: 0;}
+    
+    .logo {width: 180px;}
+    
+    .logo img {width: 100%;}
+
+    .nav-link {color: #ffffff;}
+    
+    .navbar {background-color: #000000;}
+    
+    .navbar-epand-x1 .navbar-nav .nav-link { color: #ffffff;}
+    
+    .cabecera {background: #000000 !important;
+        font-family: "Roboto", sans-serif;
+        font-weight: 100;
+        font-style: normal;}
+    
+    .bi-list {font-size: 1.7em;
+    color: #ffffff;
+    font-weight: bold;}
+    
+    .imagenes1 {align-items: center;
+    padding-left: 13%;}
+
+    .imagenes2 {align-items: center;
+        padding-left: 13%;}
+    
+    .imagenes3 {align-items: center;
+        padding-left: 13%;}
+
+    .imagenes4 {text-align: center;}
+    
+    h2 {text-align: center;
+        font-family: "Anton", sans-serif;
+        font-weight: 1000;
+        font-style: normal;;}
+    
+    .button {text-align: center;}
+
+    footer {background-color: black;
+        color: #ffffff;}
+
+.ITEMS {.ITEMS {width: 33.33%;
+    font-size: 3em;}
+    
+    .ITEMS a{color: #ffffff;}
+    
+    .ITEMS a:hover {color: blue;}}
+
+    .contenido {text-align: center;}
+
+    .mapa {padding-left: 21%;}
+
+    .REDES {width: 200px;
+        margin: 20px auto;
+        display: flex;}
+        
+        .ITEMS {width: 33.33%;
+        font-size: 3em;}
+
+.NAME {text-align: center;}
+
+.ESLOGAN {display: block;
+flex-direction: column;
+padding-left: 53%;
+margin-top: -5.3%;
+font-size: 30px;}
